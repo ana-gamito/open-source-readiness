@@ -6,7 +6,7 @@ authors:
   - name: "Chamindra de Silva"
 ---
 
-Once the [ROI model](ROI-Model) tells you *how* to value a candidate project, the next question is *where it should live*: kept proprietary to one team, shared internally through InnerSource, or released as open source. Getting this wrong in either direction has a cost, open sourcing something that's actually a competitive differentiator gives away an edge, while keeping something proprietary that dozens of teams are quietly re-building wastes engineering budget across the bank, this is particularly the case with the new wave of agentic development where replicating work becomes easy but this increases the total cost of ownership to the institution for maintainence, hosting and now token cost.
+Once the [ROI model](ROI-Model) tells you *how* to value a candidate project, the next question is *where it should live*: kept proprietary to one team, shared internally through InnerSource, or released as open source. Getting this wrong in either direction has a cost, open sourcing something that's actually a competitive differentiator gives away an edge, while keeping something proprietary that dozens of teams are quietly re-building wastes engineering budget across the bank, this is particularly the case with the new wave of agentic development where replicating work becomes easy but this increases the total cost of ownership to the institution for maintenance, hosting and now token cost.
 
 This article gives a decision tree for sorting a candidate project into one of the three buckets, followed by the individual factors worth weighing.
 
